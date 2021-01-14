@@ -19,3 +19,5 @@ Gitee:
 https://gitee.com/SDKBox/storage/raw/master/sdkboxtools/sdkboxt
 
 ```
+
+sdkobxt plugin add --url=https://raw.githubusercontent.com/sdkbox/storage/master/plugins/Bridge.zip --plugin=../sdkbox-bridge/package --repo=../sdkbox-index
